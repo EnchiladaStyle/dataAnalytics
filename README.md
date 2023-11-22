@@ -4,8 +4,6 @@ The Fred API provides information about finances and employment in the USA. http
 
 The purpose of this software was to learn the basics of data analysis and to demonstrate my understanding.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
-
 [Software Demo Video](https://us06web.zoom.us/rec/share/e0nElyJL6GvDkxVtNRiC6Ywppqahxer4digWmaK5UiDEvEj__7IeEBziHlvNG0ck.4wjRrWP2H5rhNsaZ)
 
 # Data Analysis Results
